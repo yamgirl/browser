@@ -1,0 +1,4 @@
+*.o
+browser
+.cache/
+compile_commands.json
